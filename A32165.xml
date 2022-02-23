@@ -1,0 +1,417 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of alliance and commerce between the most serene and potent prince Charles II, by the grace of God king of Great Britain, France and Ireland, defender of the faith &amp;c., and the most serene and potent prince Christian V, by the grace of God king of Denmark, Norway &amp;c. / concluded at Copenhagen the 11th day of July, 1670.</title>
+            <title>Treaties, etc. Denmark, 1670 July 11. English.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32165</idno>
+            <idno type="STC">Wing C2892</idno>
+            <idno type="STC">ESTC R43087</idno>
+            <idno type="EEBO-CITATION">26775466</idno>
+            <idno type="OCLC">ocm 26775466</idno>
+            <idno type="VID">109790</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109790)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1713:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of alliance and commerce between the most serene and potent prince Charles II, by the grace of God king of Great Britain, France and Ireland, defender of the faith &amp;c., and the most serene and potent prince Christian V, by the grace of God king of Denmark, Norway &amp;c. / concluded at Copenhagen the 11th day of July, 1670.</title>
+                  <title>Treaties, etc. Denmark, 1670 July 11. English.</title>
+                  <author>England and Wales.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Christian V, King of Denmark and Norway, 1646-1699.</author>
+                  <author>Denmark. Treaties, etc. England and Wales, 1690 July 11. English.</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill, and Christopher Barker ...,</publisher>
+                  <pubPlace>[London] In the Savoy :</pubPlace>
+                  <date>1671/2.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by His Majesties command."</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  Denmark --  Sources.</term>
+               <term>Denmark --  Foreign relations --  Great Britain.</term>
+               <term>Great Britain --  Commerce --  Denmark.</term>
+               <term>Denmark --  Commerce --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Monica Tsuneishi</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Monica Tsuneishi</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109790:1" rendition="simple:additions"/>
+            <p>ARTICLES OF ALLIANCE and COMMERCE, Between The moſt Serene and Potent PRINCE CHARLES II.</p>
+            <p>By the Grace of God, King of Great <hi>Britain, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi>
+            </p>
+            <p>AND THE Moſt Serene and Potent Prince CHRISTIAN V.</p>
+            <p>By the Grace of God, King of <hi>Denmark, Norway, &amp;c.</hi> Concluded at Copenhagen, the 11<hi rend="sup">th.</hi> day of July. 1670.</p>
+            <p>
+               <hi>Publiſhed by His Majeſties Command.</hi>
+            </p>
+            <p>In the SAVOY, Printed by the Aſſigns of John Bill, and Chriſtopher Barker, Printers to the Kings moſt Excellent Majeſty, 1671/2.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:109790:2"/>
+            <pb n="3" facs="tcp:109790:2"/>
+            <head>
+               <hi>Articles of Alliance and Commerce between the Moſt Serene and Potent Prince,</hi> Charles <hi>the Second, By the Grace of God, King of Great</hi> Britain, France, <hi>and</hi> Ireland, <hi>Defender of the Faith,</hi> &amp;c. <hi>and the Moſt Serene and Potent Prince</hi> Chriſtian <hi>the Fifth, by the Grace of God, King of</hi> Denmak, Norway, &amp;c. <hi>Con<g ref="char:EOLhyphen"/>cluded at</hi> Copenhagen, <hi>the</hi> 11<hi rend="sup">th.</hi> 
+               <hi>day of</hi> July. 1670.</head>
+            <div n="1" type="article">
+               <head>I.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat there be between the two Kings, their Heirs and Succeſſors; As alſo their Kingdoms, Principa<g ref="char:EOLhyphen"/>lities, Provinces, Eſtates, Coun<g ref="char:EOLhyphen"/>ties, Iſlands, Cities, Subjects and Vaſſals of what condition, dignity and degree ſoever, by Land and Sea, in Rivers, Freſh Waters, and all places whatſoever as well in Europe, as out of Europe; now and for the time
+<pb n="4" facs="tcp:109790:3"/>to come, a ſincere, true and perfect friendſhip, Peace and Confederation; So as that neither party do any wrong, injury or prejudice to the Kingdoms, Prin<g ref="char:EOLhyphen"/>cipalities, Provinces, and Eſtates, or to the inhabitants and Subjects of the other; nor ſuffer any to be done by others, as much as in him is: But rather live as friends together, uſing each other, with good will and reſpect; And promoting upon all occaſions the intereſts, and advantages of each other, and their ſub<g ref="char:EOLhyphen"/>jects, as if they were their own: And Preventing and hindring with all their power, by their Aſſiſtance, and Advice, any damage, wrong and injury that may be offered them.</p>
+            </div>
+            <div n="2" type="article">
+               <head>II.</head>
+               <p>Neither of the foreſaid Kings and their Heirs ſhall conſent to any thing, that may be to the prejudice or detriment of his Allie; but if either of the Kings ſhall know that any thing is propoſed, or is in agitation or contrivance, or that will be propoſed, agitated or contrived which may tend to the detriment of the other; He ſhall be obliged to ſignify the ſame unto Him without delay, and in the mean time to hinder and prevent it by all ways poſſible.</p>
+            </div>
+            <div n="3" type="article">
+               <head>III.</head>
+               <p>The foreſaid Kings for themſelves, their Heirs and Succeſſors mutually do undertake and promiſe, that they will not aide or furniſh the Enemies of either party, that ſhall be Aggreſſors, with any Proviſions
+<pb n="5" facs="tcp:109790:3"/>of War, as Souldiers, Arms, Engines, Guns, Ships, or other neceſſaries for the uſe of War, or ſuffer any to be furniſhed by their Subjects: But if the Subjects of either Prince ſhall prſeume to act contrary here<g ref="char:EOLhyphen"/>unto, then that King, whoſe Subjects ſhall have ſo done, ſhall be obliged to proceed againſt them with the higheſt ſeverity, as againſt ſeditious perſons and breakers of the League.</p>
+            </div>
+            <div n="4" type="article">
+               <head>IV.</head>
+               <p>It is further Covenanted and Argeed; That if at any time hereafter, Any Prince or State ſhall in<g ref="char:EOLhyphen"/>vade, or by any hoſtile way Attempt upon the Heredi<g ref="char:EOLhyphen"/>tary Kingdomes, Provinces, Counties, Towns, Iſlands, Territories, or Dominions of the King of Denmark which he now poſſeſſeth, then the King of Great Bri<g ref="char:EOLhyphen"/>tain ſhall Aſſiſt the ſaid King of Denmark in time, with ſuch number of Land-forces and Ships of War, againſt ſuch Aggreſſor, as ſhall ſuffice to repell the force, and as the ſtate of the ſaid Kings affaires ſhall require: And the ſaid King of Great Britain ſhall therefore with all his power endeavour to hinder, that by ſuch invaſion or diſturbance the King of Denmark be not preju<g ref="char:EOLhyphen"/>diced in any wiſe in his Kingdoms, Dominions or Rights. And if the ſaid King of Great Britain, or the ſaid King of Denmark, ſhall contract or make any League, Alliance or Union with any other King, Prince, Commonwealth or State, they ſhall reſpe<g ref="char:EOLhyphen"/>ctively endeavour to comprehend therein each other and their Dominions, (as much as in them lies) if they ſhall deſire to be comprehended.</p>
+            </div>
+            <div n="5" type="article">
+               <pb n="6" facs="tcp:109790:4"/>
+               <head>V.</head>
+               <p>It ſhall be lawful for the Subjects of both Kings with their Commodities and Merchandiſe both by Sea and Land, in time of Peace without licence or ſafe Conduct General or ſpecial to come to the Kingdoms, Provinces, Mart-towns, Ports and Rivers of each other, and in any place therein to remain and trade, Paying Uſual Cuſtoms and Duties; Reſerving never<g ref="char:EOLhyphen"/>theleſs to either Prince his Superiority, and Regal ju<g ref="char:EOLhyphen"/>riſdiction in his kingdoms, Provinces, Principalities and Territories reſpectively.</p>
+            </div>
+            <div n="6" type="article">
+               <head>VI.</head>
+               <p>It is notwithſtanding Covenanted and Concluded, That the Subjects of the King of Great Britain ſhall in no wiſe come to the Prohibited Ports, of which mention is made in Precedent Treaties, nor Colonies, without the Special Licence of the King of Denmark firſt deſired and obtained; unleſs they ſhall be com<g ref="char:EOLhyphen"/>pelled to make thither, and enter therein, by ſtreſs of Weather, or purſuit of Pirates, in which caſe neither ſhall it be lawfull for them to buy or ſell. As alſo in like manner the Subjects of the King of Denmark ſhall not come to the Britiſh Colonies, unleſs by Spe<g ref="char:EOLhyphen"/>cial Licence of the King of Great Britain firſt deſired and obtained.</p>
+            </div>
+            <div n="7" type="article">
+               <pb n="7" facs="tcp:109790:4"/>
+               <head>VII.</head>
+               <p>It ſhall be lawful for the Subjects of the Moſt Se<g ref="char:EOLhyphen"/>rene King of Denmark to bring into their own Stores and Ware-houſes in England, Scotland and Ireland, and other the Ports of the King of Great Britain in Europe, ſuch Commodities as now, or hereafter, ſhall be of the growth and production of the Eſtates, Countries and Dominions Subject to the King of Denmark, or of the Manufacture thereof, and likewiſe ſuch as come from any part of the River of Elbe.</p>
+               <p>In like manner ſhall it be lawfull for the Subjects of the King of Great Britain to import and bring into Denmak, Norway, and all other Ports and Colonies not prohibited of the King of Denmark, all kinds of Merchandiſe, which now or hereafter ſhall be pro<g ref="char:EOLhyphen"/>duced or made in the Kingdoms, Countries and E<g ref="char:EOLhyphen"/>ſtates under the Subjection of the King of Great Bri<g ref="char:EOLhyphen"/>tain. But if at any time hereafter it be permitted to any forrein Nations, to bring all kinds of Commodi<g ref="char:EOLhyphen"/>ties without exception into England, Scotland and Ireland, and other the Ports belonging to the King of Great Brittain, then the ſame alſo ſhall be lawfull for the Subjects of the King of Denmark: Which in like manner ſhall be permitted to the Subjects of the King of Great Britain, upon the like occaſion, in the Prohi<g ref="char:EOLhyphen"/>bited Ports and Colonies of the King of Denmark.</p>
+            </div>
+            <div n="8" type="article">
+               <head>VIII.</head>
+               <p>It is alſo Covenanted and agreed, that the people
+<pb n="8" facs="tcp:109790:5"/>and Subjects of the King of Great Britain, Sailing to any the Hereditary Kingdoms, Countries, or Do<g ref="char:EOLhyphen"/>minions, of the King of Denmark, or trading in the ſame, ſhall pay no more or greater Cuſtoms, Tri<g ref="char:EOLhyphen"/>bute, toll or other Duties, nor in any other manner, then the People of the United Provinces of the Low<g ref="char:EOLhyphen"/>countries, and other ſtrangers, (the Swede onely ex<g ref="char:EOLhyphen"/>cepted) trading thither, and Paying leſſer Cuſtoms, do or ſhall pay; And in going, returning, and ſtaying, as alſo in fiſhing and trading, and all other things ſhall enjoy the ſame Liberties, Immunities, and Priviledges, which the People of any forrein Countrey in the ſaid Kingdoms, and Dominions of the King of Denmark, abiding and trading, do or ſhall enjoy: And ſo on the other ſide the People and Subjects of the King of Denmark, ſhall have and en<g ref="char:EOLhyphen"/>joy the ſame Priviledges, in the Countries, and Ter<g ref="char:EOLhyphen"/>ritories, of the King of Great Britain, to wit, that the People and Subjects of the King of Denmark, Sailing to any the Kingdoms, Countries, or Domi<g ref="char:EOLhyphen"/>nions of the King of Great Britain, or trading in the ſame, ſhall not pay any more or greater Cuſtoms, Tributes, Toll, or other Duties, nor in any other manner, then the People of the United-netherlands, or other Strangers trading thither and paying leſſer Cuſtoms, do or ſhall pay: And in going, return<g ref="char:EOLhyphen"/>ing and ſtaying, as alſo in fiſhing, and trading, and all other things ſhall enjoy the ſame Liberties, Im<g ref="char:EOLhyphen"/>munities and Priviledges, which the People of any o<g ref="char:EOLhyphen"/>ther Forrein Country, in the ſaid Kingdoms, and Dominions of the King of Great Britain, abiding and trading, do or ſhall enjoy: But ſo, as that the Po<g ref="char:EOLhyphen"/>wer
+<pb n="9" facs="tcp:109790:5"/>of each King of Making or Altering Cuſtoms, or other Duties, as they ſhall ſee occaſion, in their reſpective Kingdoms, Countries, Dominions, and Ports, remain full and entire; Provided the foreſaid equality be ſtrictly obſerved on both ſides in manner aforeſaid.</p>
+            </div>
+            <div n="9" type="article">
+               <head>IX.</head>
+               <p>It is alſo covenanted that when the Subjects of either King have imported their Commodities into the Dominions of the other, have Paid the uſual Cuſtoms for them and undergone their Search, it ſhall be free and lawfull for them, to bring their ſaid Com<g ref="char:EOLhyphen"/>modities into their own proper Storehouſes, and Cel<g ref="char:EOLhyphen"/>lars, or into places which they ſhall think moſt fit and convenient, and there Store them; Nor ſhall any Ma<g ref="char:EOLhyphen"/>giſtrate or Officer of any the Cities or Ports of either impoſe upon them any Cellars or Storehouſes with<g ref="char:EOLhyphen"/>out their conſent.</p>
+            </div>
+            <div n="10" type="article">
+               <head>X.</head>
+               <p>The Subjects of either Crown trading upon the Seas, and Sailing by the Coaſts of either Kingdom, ſhall not be obliged to come into any Port, if their courſe were not directed thither; but ſhall have liber<g ref="char:EOLhyphen"/>ty to purſue their Voyage without hindrance or de<g ref="char:EOLhyphen"/>tention whitherſoever they pleaſe. Nor ſhall they, being by tempeſt forced into Port, and there remain<g ref="char:EOLhyphen"/>ing, be obliged to unlade their Cargo, or to barter or ſell any part thereof; But it ſhall be lawfull for
+<pb n="10" facs="tcp:109790:6"/>them, to diſpoſe of it as they ſhall think fit, and to do any other thing, which they ſhall judge moſt for their advantage: Provided nothing be done that may be to the defrauding of either Prince of his due Rights and Cuſtoms.</p>
+            </div>
+            <div n="11" type="article">
+               <head>XI.</head>
+               <p>It is alſo agreed, That after any Planks, Maſts, and other ſorts of Timber, have been once put on board the Ships of the Subjects or People of the King of Great Britain, they ſhall not be liable to any further Search; But all Search, or ſcrutiny, ſhall be made be<g ref="char:EOLhyphen"/>fore; And if then, either Oaken or other prohibited Timber be found, it ſhall be preſently ſtop'd and detain<g ref="char:EOLhyphen"/>ed upon the place before it be put on board the Ships; Nor ſhall the People of the ſaid King of Great Britain, or his Subjects, be therefore moleſted in their Perſons or Eſtates by Arreſt, or other detention whatſoever; But onely the Subjects of the King of Denmark, who ſhall have preſumed to Sell or Alienate any the like prohi<g ref="char:EOLhyphen"/>bited Timber, ſhall be puniſhed in due manner. And the People and Subjects of the King of Great Britain, ſhall have, poſſeſs and enjoy all and ſingular the contents, and conceſſions of this Article, without any Moleſtation or Interruption, ſo long and for all ſuch time as the Subjects or any of the People of the Uni<g ref="char:EOLhyphen"/>ted Netherlands, ſhall hold, poſſeſs, and enjoy, or might, or ought to hold, poſſeſs, and enjoy the ſame or like priviledges by any Treaty already made, or to be made, or by any Contract, Agreement or per<g ref="char:EOLhyphen"/>miſſion.</p>
+            </div>
+            <div n="12" type="article">
+               <pb n="11" facs="tcp:109790:6"/>
+               <head>XII.</head>
+               <p>It is alſo Conluded and Agreed, That all Ships be<g ref="char:EOLhyphen"/>longing to the Subjects of the King of Great Britain, and Merchants in their paſſage through the Soundt under the Moſt Serene King of Denmark and Norway, &amp;c. ſhall enjoy after the ſame manner the Benefit and Priviledge of deferring the Payment of their Cuſtoms until their return, as they held and enjoyed in former years laſt preceding the late War; But ſo neverthe<g ref="char:EOLhyphen"/>leſs, that the ſaid Ships and Merchants bring with them Certificates under the Seal of the Officers of the ſaid King of Great Britain deputed thereunto, teſtifying the ſaid Ships to belong to Subjects of the King of Great Britain; And likewiſe that before their paſſage they give ſufficient and good ſecurity for pay<g ref="char:EOLhyphen"/>ing the ſame in place convenient to the Collectors of the Cuſtoms of the ſaid King of Denmark, at their return, or if they ſhall not return, within three moneths time at the furtheſt, if they do not pay the ſame at their ſaid firſt paſſage.</p>
+            </div>
+            <div n="13" type="article">
+               <head>XIII.</head>
+               <p>And furthermore it is Agreed, that whatſoever Merchandiſe, the Subjects of the King of Great Bri<g ref="char:EOLhyphen"/>tain, ſhall land at Elſignore, and there lay in their Store<g ref="char:EOLhyphen"/>houſes, to no other end, then to put on board again entire, and tranſport them to other parts, they ſhall be obliged to pay onely the ſame duties for ſuch Mer<g ref="char:EOLhyphen"/>chandiſe, and no more, then is wont to be paid in this
+<pb n="12" facs="tcp:109790:7"/>caſe by the Dutch Nation or any other Strangers: Which ſhall be reciprocally obſerved to the Subjects of the King of Denmark after the ſame manner in Eng<g ref="char:EOLhyphen"/>land.</p>
+            </div>
+            <div n="14" type="article">
+               <head>XIV.</head>
+               <p>Alſo it is Agreed, that the Ships and Subjects of the King of Great Britain, ſhall have their diſpatch at Elſignore, as ſoon as they arrive there without delay, No Ships of what Nation ſoever having preference before them in this behalf: Except the In<g ref="char:EOLhyphen"/>habitants of certain places, who have anciently held a priviledge to that purpoſe, and ſtill do.</p>
+            </div>
+            <div n="15" type="article">
+               <head>XV.</head>
+               <p>If any Subject of either Prince ſhall happen to die in the Dominions, or Territories of the other, it ſhall be lawful for him to diſpoſe of his eſtate, both money and goods in any manner whatſoever: And if any one die within the Kingdoms, or Provinces of the other Prince without making any ſuch diſpoſitions then the Goods by him left, moveable or immoveable, of what<g ref="char:EOLhyphen"/>ever nature or condition the ſame ſhall be, ſhall be faithfully preſerved for the uſe of the right Heir, and for ſatisfaction of ſuch debts as the party deceaſed was juſtly bound to pay: And to that end, ſo ſoon as any Subject of either Prince ſhall die in the other Princes Dominions, the Conſul or Publick Miniſter then reſid<g ref="char:EOLhyphen"/>ing there, ſhall have right to poſſeſs the ſaid Moneys and Goods, and ſhall make Inventories of the ſame be<g ref="char:EOLhyphen"/>fore ſome Magiſtrate of the place; Which Goods ſhall afterwards remain in his hands, to be anſwered
+<pb n="13" facs="tcp:109790:7"/>to the Heirs and Creditors as aforeſaid; But if no ſuch Conſul or Publick Miniſter ſhall be there, then it ſhall be lawful for two Merchants of the ſame Countrey with the party deceaſed to poſſeſs the Goods left by him, to preſerve them, and in like manner to an<g ref="char:EOLhyphen"/>ſwer them to the Heirs and Creditors. Which not<g ref="char:EOLhyphen"/>withſtanding is to be ſo underſtood, that no Papers, or Books of Accounts are by this Article to be expoſed to the inſpection of the ſaid Magiſtrate, but onely the real Goods and Merchandiſe of the deceaſed; And that the ſaid Magiſtrate within the ſpace of fourty eight hours, after notice given and requeſt made, ſhall be obliged to be preſent, otherwiſe the ſaid Inven<g ref="char:EOLhyphen"/>tories ſhall be made without him.</p>
+            </div>
+            <div n="16" type="article">
+               <head>XVI.</head>
+               <p>It ſhall be lawfull for either of the Confederates and their Subjects or People to Trade with the Ene<g ref="char:EOLhyphen"/>mies of the other, and to carry to them, or furniſh them with any Merchandiſes (Prohibited onely, which they call Contrabanda, excepted) without any im<g ref="char:EOLhyphen"/>pediment, unleſs in Ports and Places beſieged by the other; Which nevertheleſs if they ſhall ſo do; it ſhall be free for them either to ſell their Goods to the Beſiegers, or betake themſelves to any other Port or Place not beſieged.</p>
+            </div>
+            <div n="17" type="article">
+               <head>XVII.</head>
+               <p>It is alſo Agreed, That it ſhall be free and lawfull for the Subjects of either Prince, Trading in the Do<g ref="char:EOLhyphen"/>minions
+<pb n="14" facs="tcp:109790:8"/>or Ports of the other, there to remain, and re<g ref="char:EOLhyphen"/>ſide for the buying and ſelling Commodities, without any reſtriction of time or limitation to be impoſed up<g ref="char:EOLhyphen"/>on them by any Officers or Magiſtrates of the ſaid Dominions or Ports, They Paying the accuſtomed Duties for all Goods and Merchandiſe by them im<g ref="char:EOLhyphen"/>ported, or exported; And further provided that they trade with none, but ſuch as are Citizens, or Bur<g ref="char:EOLhyphen"/>gers of ſome City, or Town, within the Kingdoms of Denmark or Norway, and that onely by whole-ſale, and not by parcells or retail.</p>
+            </div>
+            <div n="18" type="article">
+               <head>XVIII.</head>
+               <p>Furthermore, for the better encouragement of Trade and Commerce, and for the utter avoiding of all Frauds and Diſputes that may ariſe between the Of<g ref="char:EOLhyphen"/>ficers of Ports and Merchants, It is Agreed and Con<g ref="char:EOLhyphen"/>cluded, That all and ſingular Duties ſhall be demand<g ref="char:EOLhyphen"/>ed and paid according to the Printed Tariffe, (or Book of Rates) wherein ſhall be compriſed all Cuſtomes and Duties to be paid as well for Goods in the re<g ref="char:EOLhyphen"/>ſpective Ports, as for paſſage through the Soundt: And to the end that this may be the more Strictly obſerved, Both Kings ſhall not onely enjoyn his Of<g ref="char:EOLhyphen"/>ficers and Collectors of his Cuſtomes under the higheſt penalty, not to do any thing that may fruſtrate or e<g ref="char:EOLhyphen"/>lude this Agreement; But alſo that they do not by Moleſtation or Exaction, cauſe any trouble, or offer any injury to the Subjects of either King.</p>
+            </div>
+            <div n="19" type="article">
+               <pb n="15" facs="tcp:109790:8"/>
+               <head>XIX.</head>
+               <p>Moreover, it is concluded and Agreed, That the King of Denmark ſhall conſtitute the Overſeers of his Cuſtoms or others, Commiſſioners for re-meaſuring all Ships belonging to the Subjects of the King of Great Britain Trading in Norway, according to their burden and content, ſo as that what has been hitherto not rightly obſerved, either in exceſs or defect, may be hereafter reduced into better Order.</p>
+            </div>
+            <div n="20" type="article">
+               <head>XX.</head>
+               <p>But leſt ſuch freedom of Navigation or Paſſage of the One Allie and His Subjects and People, during the War that the other may have by Sea, or Land with any other Countrey, may be to the prejudice of the other Allie, and that Goods and Merchandiſe belong<g ref="char:EOLhyphen"/>ing to the enemy, may be fraudulently concealed un<g ref="char:EOLhyphen"/>der colour of being in Amity; For the preventing of fraud, and clearing all ſuſpition, It is thought fit, that the Ships, Goods and Men belonging to the other Confederate in their paſſage and Voyages, be accom<g ref="char:EOLhyphen"/>panied with Letters of Paſſe-port and Certiſicate; The forms whereof to be as follows;</p>
+               <pb n="16" facs="tcp:109790:9"/>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>CHARLES the Second by the Grace of God, King of Great Britain, &amp;c.</head>
+                     <head type="sub">CHRISTIAN the Fifth by the Grace of God, King of Denmark and Norway, &amp;c.</head>
+                     <p>BE it known unto all and ſingular to whom theſe Our Letters of Safe-conduct ſhall be ſhewn; That <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Our Subject and Citizen of Our City of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> hath humbly repreſen<g ref="char:EOLhyphen"/>ted unto Us, that the Ship called <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> of the burthen of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Tuns, doth belong unto them and others our Subjects, and that they are ſole Owners and Proprietors thereof, and is now Laden with the Goods which are contained in a Schedule which ſhe hath with her from the Officers of our Cu<g ref="char:EOLhyphen"/>ſtoms, and do Solely, Truly and Really belong to Our Subjects or others in Neutrality, bound immediately from the Port of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> to ſuch other place or places, where ſhe may conveniently Trade with the ſaid Goods, being not Prohibited nor belonging to ei<g ref="char:EOLhyphen"/>ther of the parties in hoſtility, or elſe find a Freight, Which the foreſaid <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Our Subject having atteſted by a writing under his hand, and affirmed to be true by Oath, under Penalty of confiſ<g ref="char:EOLhyphen"/>cation of the ſaid Goods, We have thought fit to grant him theſe our Letters Of Safe-conduct: And therefore We do hereby reſpectively Pray and deſire All Governors of Countries and Seas, Kings, Princes, Commonwealths, and free Cities, and more eſpecially the Parties now in War, and their Commanders, Ad<g ref="char:EOLhyphen"/>miralls,
+<pb n="17" facs="tcp:109790:9"/>Generalls, Officers, Governours of Ports, Commanders of Ships, Captains, Freighters and all others whatſoever having any Juriſdiction by Sea, or the Cuſtody of any Port, whom the Ship aforeſaid ſhall chance to meet, or among whoſe Fleet or Ships it ſhall happen to fall or make ſtay in their Ports, that by vertue of the League and Amity, which we have with any King or State, they ſuffer the ſaid Maſter with the Ship <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> perſons, things, and all Merchandiſe on board her, not onely freely and without any Moleſtation, Detention, or Impediment to any place whatſoever to purſue his Voyage, but alſo to afford him all Offices of Civility as to Our Subject if there ſhall be occaſion; Which upon the like or other occaſion, We and Ours ſhall be ready to return.</p>
+                     <closer>
+                        <dateline>
+                           <hi>Given the <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> day of <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> in the year</hi>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="18" facs="tcp:109790:10"/>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>WE the Preſident, Conſuls and Senators of the City of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> do Atteſt and Certifie, That on the <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> day of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> in the year <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Perſonally before us came and appeared <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Citizen and Inhabitant of the City or Town of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> and under the Oath wherein he ſtands bound to Our Sovereign Lord the King, did declare unto us, That the Ship or Veſſell called <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> of the burthen of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Tuns doth belong to the Port, City or Town of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> in the Province of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> And that the ſaid Ship doth juſtly belong onely to him and others, Subjects of Our ſaid Sovereign Lord, and now bound directly from the Port of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> laden with the Goods mentioned in a Schedule recei<g ref="char:EOLhyphen"/>ved from the Officers of the Cuſtoms, and that he hath affirmed under the Oath aforeſaid, that the foremen<g ref="char:EOLhyphen"/>tioned Veſſell with her Goods and Merchandiſe doth onely belong to Subjects of His Majeſtie, and doth carry no Goods prohibited, which belong to either of the Parties now in War.</p>
+                     <p>
+                        <hi>In teſtimony whereof we have cauſed this Certificate to be Subſcribed by the Syndic of Our City, and ſealed with Our Seal.</hi>
+                     </p>
+                     <p>
+                        <hi>Given, &amp;c.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <pb n="19" facs="tcp:109790:10"/>
+               <p>When therefore the Merchandiſe, Goods, Ships, or Men of either of the Confederates and their Subjects and People, ſhall meet in open Sea, Streights, Ports, Havens, Lands and places whatſo<g ref="char:EOLhyphen"/>ever, the Ships of War, whether Publick or Private, or the Men, Subjects and People of the other Confe<g ref="char:EOLhyphen"/>derate; Upon exhibiting onely the foreſaid Letters of Safe-conduct and Certificate, there ſhall be nothing more required of them, nor ſhall Search be made after the Goods, Ships or Men, nor ſhall they be any other ways whatſoever moleſted or troubled; But ſuffered with all freedome to purſue their intended Voyage; But if this ſolemne and ſet form of Paſſeport and Cer<g ref="char:EOLhyphen"/>tificate be not exhibited, or that there be any other juſt and urgent cauſe of Suſpition; Then ſhall the Ship be Searched, which is nevertheleſs in this caſe onely underſtood to be permitted, and not other<g ref="char:EOLhyphen"/>wiſe. If by either party any thing ſhall be committed contrary to the true meaning of this Article, againſt either of the Confederates, each of the ſaid Confede<g ref="char:EOLhyphen"/>rates ſhall cauſe His Subjects and People offending to be ſeverely puniſhed, and full and entire ſatisfaction to be forthwith given, and without delay, to the party injured and His Subjects and People for their whole loſs and expences.</p>
+            </div>
+            <div n="21" type="article">
+               <head>XXI.</head>
+               <p>It is alſo concluded and Agreed, that all Ships of Subjects and People of the King of Great Britain to<g ref="char:EOLhyphen"/>gether with their lading and Merchandiſe, paſſing by
+<pb n="20" facs="tcp:109790:11"/>the Port of Gluckſtad, or other Places and Towns, under the Dominion of the King of Denmark, ſituate upon the Elve-ſtream, both going and returning, ſhall be free and exempt from all Cuſtome, Impoſt, Search, Seiſure, and Moleſtation, except onely the caſe of Search in the time of War, when the King of Denmark hath War with any other King or State.</p>
+            </div>
+            <div n="22" type="article">
+               <head>XXII.</head>
+               <p>If the Subjects of either Prince be hurt or injured in the Territories of the other; Then the King of that place where the injury is done, ſhall take care that ſpee<g ref="char:EOLhyphen"/>dy juſtice be adminiſtred according to the Laws and Cuſtoms of the Country; And that the perſons guil<g ref="char:EOLhyphen"/>ty be duely puniſhed, with ſatisfaction to be made to the party wronged.</p>
+            </div>
+            <div n="23" type="article">
+               <head>XXIII.</head>
+               <p>It is alſo Agreed, That no ſhips whatſoever, Veſ<g ref="char:EOLhyphen"/>ſels, or Merchandiſe laden on ſhips of whatſoever na<g ref="char:EOLhyphen"/>ture kind or quality, howſoever taken, belonging to any the Subjects of either of the aforeſaid Kings, un<g ref="char:EOLhyphen"/>der any colour or pretence whatſoever be adjudged Priſe, unleſs by a Judicial Examination and Proceſs in form of Law, in a Court of Admiralty for Priſes ta<g ref="char:EOLhyphen"/>ken at Sea in that behalf lawfully Conſtituted.</p>
+            </div>
+            <div n="24" type="article">
+               <head>XXIV.</head>
+               <p>Both parties ſhall cauſe juſtice and equity to be
+<pb n="21" facs="tcp:109790:11"/>Adminiſtred to the Subjects and People of each other, according to the Laws and Statutes of either Coun<g ref="char:EOLhyphen"/>trey, Speedily, and without long and unneceſſary formalities of Law and expences, in all cauſes and Controverſies, as well now depending, as which may hereafter ariſe.</p>
+            </div>
+            <div n="25" type="article">
+               <head>XXV.</head>
+               <p>If the ſhips of either of the Confederates, and their Subjects and People, whether they be Merchant Men, or Men of War, ſhall happen to run on ground, or fall upon Rocks, or be forced to lighten themſelves, or ſhall otherwiſe ſuffer Ship-wrack (which God forbid) upon the Coaſts of either King, the foreſaid Ships with their tackle, Goods, and Merchandiſe, or whatſo<g ref="char:EOLhyphen"/>ever ſhall be remaining of them, ſhall be Reſtored to their owners and Proprietors; Provided they or their Agents and Proctors do claim the ſaid ſhips and Goods, within the ſpace of a year and a day after ſuch Ship-wrack ſuffered, ſaving always the Rights and Cuſtoms of both Nations. The Subjects alſo and Inhabitants dwelling upon the ſaid Coaſts and Shores, ſhall be obliged to come in to their help in caſe of dan<g ref="char:EOLhyphen"/>ger, and as much as in them lies to give their aſſiſtance; And ſhall do their utmoſt endeavour, either for the freeing of the Ship, or ſaving the Goods, Merchan<g ref="char:EOLhyphen"/>diſe and Apparel of the ſaid Ship, and what elſe of the ſame they ſhall be able, and for the conveying the ſame into ſome ſafe place in order to be reſtored to the Owners; They paying Salvage, and giving ſuch recompence to the perſons by whoſe aſſiſtance
+<pb n="22" facs="tcp:109790:12"/>and diligence the ſaid Merchandiſe and Goods, ſhall have been recovered and preſerved as they ſhall de<g ref="char:EOLhyphen"/>ſerve. And finally both Parties, in caſe of ſuch misfor<g ref="char:EOLhyphen"/>tune ſhall ſee obſerved on their ſide, what they would deſire to have obſerved and done on the other ſide.</p>
+            </div>
+            <div n="26" type="article">
+               <head>XXVI.</head>
+               <p>The Commanders of Ships, or Governours, Soul<g ref="char:EOLhyphen"/>diers, Marriners and Company belonging to the ſame; As alſo the Ships themſelves, and the Goods and Merchandiſe on board them, ſhall not be detained by any Arreſt or Seiſure upon any Warrant either Gene<g ref="char:EOLhyphen"/>ral or Special, or for any cauſe, unleſs for the defence and preſervation of the Kingdom; Which yet ſhall not be underſtood to be meant of Arreſts layed by Authority of law, for debt contracted upon any o<g ref="char:EOLhyphen"/>ther lawful occaſion whatſoever, in which caſe it ſhall be lawful to proceed according to the rules of juſtice and Law.</p>
+            </div>
+            <div n="27" type="article">
+               <head>XXVII.</head>
+               <p>It ſhall be free for the Merchants of both King<g ref="char:EOLhyphen"/>domes, their Factors and ſervants, and alſo the Ma<g ref="char:EOLhyphen"/>ſters and Marriners of Ships upon the Sea, and in o<g ref="char:EOLhyphen"/>ther Waters, as likewiſe in the Ports, and upon the Coaſts and Lands of either Confederate, going, re<g ref="char:EOLhyphen"/>turning and walking, for the defence of their Perſons and Goods, to carry any kind of portable Arms, as well offenſive as defenſive, ſo that they give no juſt cauſe of ſuſpition to the Commanders and Magiſtrates of
+<pb n="23" facs="tcp:109790:12"/>any place, of any Plots or Contrivances againſt the Publick or private Peace.</p>
+            </div>
+            <div n="28" type="article">
+               <head>XXVIII.</head>
+               <p>The Convoys or Ships of War of either Party, meeting in their Voyage, or overtaking any Mer<g ref="char:EOLhyphen"/>chant Ships, or others belonging to the other Con<g ref="char:EOLhyphen"/>federate or His Subjects, and making the ſame courſe at Sea, in Europe or out of Europe, ſhall be obliged to guard and defend them as long as they ſhall hold the ſame courſe together.</p>
+            </div>
+            <div n="29" type="article">
+               <head>XXIX.</head>
+               <p>For the greater ſecurity of Commerce and freedom of Navigation, it is Concluded and Agreed, That neither Part, as much as may be, and ſhall lie in their powers, ſhall permit that Publique Pirates or other Robbers upon the Sea, in any the Ports of the other Kingdom or Country have their Receptacles or Re<g ref="char:EOLhyphen"/>treats, or ſhall ſuffer that any of the Inhabitants, or People of either Prince, do receive them into their houſes, or ſupply them with proviſions, or be other<g ref="char:EOLhyphen"/>wiſe aſſiſting to them; But on the contrary ſhall en<g ref="char:EOLhyphen"/>deavour, that the ſaid Pirates or Robbers and their Partiſans and Accomplices be apprehended, and pu<g ref="char:EOLhyphen"/>niſhed according to their demerit, and the Ships and Goods, as much as can be found of them, reſtored to the lawful Owners or their Agents, Provided their right be made appear by due proof of law in the Court of Admiralty.</p>
+            </div>
+            <div n="30" type="article">
+               <pb n="24" facs="tcp:109790:13"/>
+               <head>XXX.</head>
+               <p>It is concluded and Agreed, that there ſhall be at all times free acceſs for the Subjects and People of either Party, to the Ports and Coaſts of both Prin<g ref="char:EOLhyphen"/>ces, and it ſhall be lawful for them to remain therein, and from thence again to depart, and alſo to paſs through the Seas and Territories whatſoever of either King reſpectively (Not committing any waſte or in<g ref="char:EOLhyphen"/>jury) not onely with Merchant Ships and Ships of burthen, but alſo with Ships of War, whether the ſame be upon the Publick account, or Acting by private Commiſſions; whether they enter by reaſon of Tem<g ref="char:EOLhyphen"/>peſt, and for avoiding the danger of the Sea, or to refit or buy proviſions: So that they exceed not the number of ſix Ships of War, if they enter of their own accord, nor ſhall they remain longer in or about the Ports, then ſhall be neceſſary for the refitting of their Ships, buying proviſions or other neceſſaries: And if they ſhould upon occaſion deſire to come into the ſaid Ports with a greater number of Ships of War, It ſhall in no wiſe be lawful for them to enter therein to without firſt giving timely notice by Letter of their coming, and obtaining leave of thoſe to whom the foreſaid Ports belong. But if by force of Tempeſt or other urgent neceſſity, they ſhall be compelled to put into harbour, in ſuch caſe without any precedent no<g ref="char:EOLhyphen"/>tice, the Ships ſhall not be reſtrained to a certain num<g ref="char:EOLhyphen"/>ber; But with this condition nevertheleſs, that their Admiral or Commander in chief preſently after his Arrival, ſhall make acquainted the chief Magiſtrate or
+<pb n="25" facs="tcp:109790:13"/>Commander of the Place, Haven or Coaſt, whether they are come, with the cauſe of his coming; Nor ſhall be ſtay longer there, then ſhall be permitted him by the chief Magiſtrate or Commander, and ſhall not act or attempt any Hoſtility in the Ports whereinto he hath betaken himſelf, or any thing prejudicial to him of the Two Confederates to whom they ſhall belong.</p>
+            </div>
+            <div n="31" type="article">
+               <head>XXXI.</head>
+               <p>It ſhall not be lawful for the Subjects of either King, or the Inhabitants of the Kingdoms or Lands under their obedience, to procure of any Prince or State who is at difference, or in open War with either of the Confederates, Letters Patents, called Com<g ref="char:EOLhyphen"/>miſſions or Repriſals, much leſs by virtue of ſuch Letters to moleſt or damnify the Subjects of either. Both the ſaid Kings ſhall ſtrictly prohibite their Sub<g ref="char:EOLhyphen"/>jects reſpectively, that they do not procure or accept from other Princes or States any ſuch Commiſſions; But ſhall as much as in them lies, forbid and hinder the committing of any depredations by virtue of ſuch Commiſſions.</p>
+            </div>
+            <div n="32" type="article">
+               <head>XXXII.</head>
+               <p>If any Ship or Ships belonging to the Subjects of ei<g ref="char:EOLhyphen"/>ther King be taken in the Ports of either by a third party, they in whoſe Port, or within whoſe juriſdi<g ref="char:EOLhyphen"/>ction whatſoever the foreſaid Ships ſhall be taken, ſhall be mutually obliged to uſe their endeavour to<g ref="char:EOLhyphen"/>gether with the other party, for the finding and
+<pb n="26" facs="tcp:109790:14"/>retaking the ſaid Ships or Ships, and reſtoring them to the Owners; Which nevertheleſs ſhall be done at the charge of the ſaid Owners, or the Parties interreſted.</p>
+            </div>
+            <div n="33" type="article">
+               <head>XXXIII.</head>
+               <p>But if alſo in the Ships taken by the Subjects of ei<g ref="char:EOLhyphen"/>ther Confederate, and brought into any Port belonging to the other, there be found any Seamen or other Per<g ref="char:EOLhyphen"/>ſons who are Subjects of that Confederate into whoſe Ports or Rivers the prize ſhall be brought, they ſhall be civilly uſed by thoſe who have taken them, and reſtored to their liberty forthwith and without ran<g ref="char:EOLhyphen"/>ſome.</p>
+            </div>
+            <div n="34" type="article">
+               <head>XXXIV.</head>
+               <p>But if a Ship of War or any other laden with pro<g ref="char:EOLhyphen"/>hibited Goods belonging to the other Crown happen to be taken; It ſhall not be lawful for the Captains or Commanders who have taken her to open or break up any Cheſts, Tons or Bails on board the ſaid Ship, nor likewiſe to tranſport or otherwiſe alienate any of her Merchandiſe, until they have been firſt put on ſhore, and an Inventory thereof made before the Jud<g ref="char:EOLhyphen"/>ges of the Admiralty.</p>
+            </div>
+            <div n="35" type="article">
+               <head>XXXV.</head>
+               <p>And for the greater ſecurity of the Subjects of both Kings, and for preventing of all violence towards them from the ſaid Ships of War; All Commanders of any
+<pb n="27" facs="tcp:109790:14"/>the Ships of War belonging to the King of Great Bri<g ref="char:EOLhyphen"/>tain and all other His Subjects whatſoever, ſhall be ſtrictly charged and required, that they do not Moleſt or Injure the Subjects of the King of Denmark; If they ſhall do otherwiſe, they ſhall be liable to anſwer it in their Perſons and Eſtates, and ſhall therein ſtand bound until juſt Satisfaction and Compenſation ſhall be made for the wrongs by them done, and the Damage thereby ſuſtained or to be ſuſtained: In like man<g ref="char:EOLhyphen"/>ner, ſhall all Commanders of the Ships of War be<g ref="char:EOLhyphen"/>longing to the King of Denmark, and all other His Subjects whatſoever be ſtraitly under the ſame penal<g ref="char:EOLhyphen"/>ties charged and required that they do not moleſt or injure the ſaid Subjects of the King of Great Britain; Provided nevertheleſs, that all the foreſaid actions be examined and adjudged by due and legal proceeding in the Court of Admiralty of both Kings; Or if it ſhall rather ſeem meet to either of the parties, being a ſtran<g ref="char:EOLhyphen"/>ger in the place where the controverſy is to be deci<g ref="char:EOLhyphen"/>ded, they ſhall be examined before certain Commiſ<g ref="char:EOLhyphen"/>ſioners, which both Kings ſo ſoon as they ſhall be de<g ref="char:EOLhyphen"/>ſired, ſhall appoint to that end, that ſo proceedings by this means may be not onely carried on without great expenſes, but alſo ended within three moneths at furtheſt.</p>
+            </div>
+            <div n="36" type="article">
+               <head>XXXVI.</head>
+               <p>Both Kings ſhall take care, That judgment and ſen<g ref="char:EOLhyphen"/>tence in things taken at Sea, be given according to the rules of juſtice and equity by perſons not ſuſpected or interreſted, and being once given by ſuch Judges as
+<pb n="28" facs="tcp:109790:15"/>aforeſaid, they ſhall ſtraitly charge and require their Officers and whom it ſhall concern, to ſee the ſame put in due execution according to the form and tenour thereof.</p>
+            </div>
+            <div n="37" type="article">
+               <head>XXXVII.</head>
+               <p>If the Ambaſſadors of either King, or any other Publick Miniſters reſiding with the other King, ſhall happen to make complaint of any ſuch ſentence, that King to whom complaint ſhall be made, ſhall cauſe the ſaid judgment and ſentence to be reheard and exami<g ref="char:EOLhyphen"/>ned in His Council; That it may appear, whether all things requiſite and neceſſary have been per<g ref="char:EOLhyphen"/>formed according to the rules of this Treaty and with due caution: If the contrary ſhall happen, it ſhall be redreſſed, which is to be done at the furtheſt within three moneths time.</p>
+               <p>Neither ſhall it be lawful either before the giving of the firſt ſentence, or afterwards during the time of Re-hearing, to unlade or ſell and make away the Goods in controverſie, unleſs it happen to be done by con<g ref="char:EOLhyphen"/>ſent of parties, and to prevent the periſhing of the ſaid Goods and Merchandiſe.</p>
+            </div>
+            <div n="38" type="article">
+               <head>XXXVIII.</head>
+               <p>The ſaid Kings ſhall have in each others Court their Miniſters, and in certain Ports their Conſuls, for the better and more eaſie communicating and pro<g ref="char:EOLhyphen"/>poſing ſuch things, as they ſhall think advantageous to the Publick intereſt, or private concerns of any par<g ref="char:EOLhyphen"/>ticular Perſon.</p>
+            </div>
+            <div n="39" type="article">
+               <pb n="29" facs="tcp:109790:15"/>
+               <head>XXXIX.</head>
+               <p>No Private injury ſhall in any wiſe letten this Treaty, nor ſhall raiſe any diſcord or hatred between the foreſaid Nations, but every man ſhall anſwer for his own doings, and ſhall be reſponſible therefore; Nor ſhall one man ſuffer for that which another has of<g ref="char:EOLhyphen"/>fended in, by having recourſe to Repriſals, or ſuch like rigorous proceedings, unleſs juſtice be denied or delayed longer then is fitting. In which caſe it ſhall be lawful for that King, whoſe Subject has received the Injury, to proceed according to the rules and pre<g ref="char:EOLhyphen"/>ſcriptions of the Law of Nations untill reparation be made to the party injured; Provided notwithſtanding that he have firſt in due manner advertiſed the other King thereof.</p>
+            </div>
+            <div n="40" type="article">
+               <head>XL.</head>
+               <p>Alſo it is Agreed that if the Hollander, or any o<g ref="char:EOLhyphen"/>ther Nation whatſoever (the Swediſh Nation onely excepted) hath already, or ſhall hereafter obtain any better Articles, Agreement, Exemptions or Priviled<g ref="char:EOLhyphen"/>ges then what are contained in this Treaty from the King of Denmark, that the ſame and like Priviledges, ſhall be likewiſe Granted to the King of Great Britain, and His Subjects effectually and fully to all intents and purpoſes; And on the otherſide if the Hollander or any other Nation whatſoever, hath or ſhall obtain from His Majeſty of Great Britain, any better Articles, Agreements, Exemptions or Priviledges then what are
+<pb n="30" facs="tcp:109790:16"/>contained in this Treaty, that the ſame and like Pri<g ref="char:EOLhyphen"/>viledges ſhall be granted to the King of Denmark and His Subjects alſo, in moſt full and effectual manner.</p>
+            </div>
+            <div n="41" type="article">
+               <head>XLI.</head>
+               <p>It is alſo Concluded, That former Treaties and Leagues at any time heretofore made between the foreſaid Confederates or their Predeceſſors Kings, as well for the Kingdoms of Great Britain, &amp;c. as for the Hereditary Kingdoms of Denmark and Norway, &amp;c. reſpectively, be not in the leaſt reputed or taken to be broken and aboliſhed by any Agreement, Cove<g ref="char:EOLhyphen"/>nants or Articles in the preſent Treaty contained; But that the ſame remain in full force, effect and virtue, ſo far as they are not contrary or repugnant to the preſent Treaty or any Article therein contained.</p>
+            </div>
+            <div n="42" type="article">
+               <head>XLII.</head>
+               <p>Finally, it is Covenanted, concluded and agreed, that the foreſaid Kings ſhall ſincerely and <hi>bona fide</hi> ob<g ref="char:EOLhyphen"/>ſerve all and ſingular the Articles contained and ſet down in this Treaty, and ſhall cauſe them to be ob<g ref="char:EOLhyphen"/>ſerved by their Subjects and People; Nor ſhall tranſ<g ref="char:EOLhyphen"/>greſs the ſame directly or indirectly, or ſuffer the ſame to be tranſgreſſed by their Subjects or People, and ſhall Ratify and Confirm all and ſingular the premiſſes as before Agreed, by Letters Patents Subſcribed with their hands, and Sealed with their Great Seales in good ſufficient and effectuall form, and ſhall deliver the ſame reciprocally within three Moneths after the date of
+<pb n="31" facs="tcp:109790:16"/>theſe Preſents, or cauſe them to be delivered, in good faith and reality, and with effect.</p>
+               <closer>
+                  <dateline>
+                     <hi>Given at Copenhagen</hi> 
+                     <date>the 12<hi rend="sup">th.</hi> 
+                        <hi>day of July,</hi> 1670.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the <hi>SAVOY,</hi> Printed by the Aſſigns of <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt Excellent Majeſty, 1672.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
